@@ -3,7 +3,7 @@
 Se crea con Python una aplicación para predecir diversas enfermedades en función de un modelo de aprendizaje automático entrenado, “Regresor logístico con regularización tipo Ridge”. 
 
 
-![App overview](https://ibb.co/KGZ9PK5.png)
+![App overview](https://ibb.co/KGZ9PK5/appdiseasesprediction.png)
 
 ## Tabla de Contenido
 1. [Introducción](#general-info)
