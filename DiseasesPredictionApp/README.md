@@ -1,4 +1,4 @@
-# Heart Condition Checker
+# Aplicación para predecir diversas enfermedades
 
 Se crea con Python una aplicación para predecir diversas enfermedades en función de un modelo de aprendizaje automático entrenado, “Regresor logístico con regularización tipo Ridge”. 
 
